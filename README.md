@@ -20,7 +20,7 @@ Na Tela Sobre será necessário justificar:
 Primeiramente siga as instruções da [instalação do docker a partir da documentação oficial](https://docs.docker.com/engine/install/) e adicione o `host` `flex.localhost` dentro do arquivo `/etc/hosts`.
 
 > [!TIP]
-> Para realizar entender a estrutura, utilize o seguinte tutorial: [Como criar containers com PHP, MySQL e NGINX utilizando o Docker Compose](https://dev.to/jrnunes1993/como-criar-containers-com-php-mysql-e-nginx-utilizando-o-docker-compose-964)
+> Para entender a estrutura, utilize o seguinte tutorial: [Como criar containers com PHP, MySQL e NGINX utilizando o Docker Compose](https://dev.to/jrnunes1993/como-criar-containers-com-php-mysql-e-nginx-utilizando-o-docker-compose-964)
 
 ## Conteiners Docker
 Esse projeto utiliza três conteiners, nos quais todos estão orquestrados dentro de `docker-compose.yml`, esses são:
