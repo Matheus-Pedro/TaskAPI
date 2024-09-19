@@ -13,9 +13,6 @@ Na Tela Sobre será necessário justificar:
   - Para que?
   - Por que?
 
-## Referências
-  - https://dev.to/jrnunes1993/como-criar-containers-com-php-mysql-e-nginx-utilizando-o-docker-compose-964
-
 ## Passos iniciais
 Primeiramente siga as instruções da [instalação do docker a partir da documentação oficial](https://docs.docker.com/engine/install/) e adicione o `host` `flex.localhost` dentro do arquivo `/etc/hosts`.
 
