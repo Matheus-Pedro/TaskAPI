@@ -1,5 +1,4 @@
-# Seeking-Knowledge
-
+# CRUD-PHP
 ## Desafio: 
 Regras do desafio:
   - Menu + Tela Sobre
