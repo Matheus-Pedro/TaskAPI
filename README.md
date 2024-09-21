@@ -1,18 +1,5 @@
-# CRUD-PHP
-## Desafio: 
-Regras do desafio:
-  - Menu + Tela Sobre
-  - mais no mínimo 3 telas além do menu e sobre
-  - no mínimo 3 tabelas
-  - CRUD
-  - imagens de voltar, excluir, alterar, inserir ...
-  - CSS externo
-
-Na Tela Sobre será necessário justificar: 
-  - O que é?
-  - Para que?
-  - Por que?
-
+# TaskAPI
+Um CRUD simples de tarefas para um usuário único.
 ## Passos iniciais
 Primeiramente siga as instruções da [instalação do docker a partir da documentação oficial](https://docs.docker.com/engine/install/) e adicione o `host` `flex.localhost` dentro do arquivo `/etc/hosts`.
 
@@ -34,3 +21,4 @@ sudo docker compose up -d
 
 ## Referências
 - [jrnunes1993](https://dev.to/jrnunes1993/como-criar-containers-com-php-mysql-e-nginx-utilizando-o-docker-compose-964)
+- [ranierivalenca](https://dev.to/ranierivalenca/api-basica-com-php-e-mysql-via-pdo-para-uma-todo-list-46da)
