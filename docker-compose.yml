@@ -22,10 +22,14 @@ services:
       - db
   
   db:
-    image: mysql:latest
+    build:
+      context: .
+      dockerfile: mysql.dockerfile
     container_name: mysql
     ports:
       - "3306:3306"
     restart: always
     env_file:
       - ./.env
+    volumes:
+      - ./db-volume:/var/lib/mysql
